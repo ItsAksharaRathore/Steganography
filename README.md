@@ -15,7 +15,7 @@ A web application that allows users to hide encrypted secret messages within ima
 
 ## 🚀 Live Demo
 
-[Visit the Application](https://yourwebsite.com/stego) (Replace with actual link if deployed)
+[Visit the Application](https://itsakshararathore.github.io/Steganography) (Replace with actual link if deployed)
 
 ## 🛠️ Installation
 
@@ -110,10 +110,10 @@ A web application that allows users to hide encrypted secret messages within ima
 
 ## 👨‍💻 Developer
 
-**Vaibhav Sharma**
+**Akshara Rathore**
 - Cybersecurity Enthusiast & Developer
-- [GitHub](https://github.com/itsvaibhavsharma)
-- [LinkedIn](https://linkedin.com/in/itsvaibhavsharma)
+- [GitHub](https://github.com/itsakshararathore)
+- [LinkedIn](https://linkedin.com/in/itsakshararathore)
 
 ## 📄 License
 
