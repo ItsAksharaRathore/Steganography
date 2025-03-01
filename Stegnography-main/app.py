@@ -537,11 +537,10 @@ INDEX_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
@@ -887,11 +886,10 @@ ENCRYPT_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
@@ -1191,11 +1189,10 @@ RESULT_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
@@ -1573,11 +1570,10 @@ DECRYPT_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
@@ -1878,11 +1874,10 @@ DECRYPT_RESULT_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
@@ -2197,16 +2192,15 @@ ABOUT_TEMPLATE = '''
                 <div class="developer-img">
                     <i class="fas fa-user" style="font-size: 80px; color: #3498db;"></i>
                 </div>
-                <h2>Vaibhav Sharma</h2>
+                <h2>Akshara Rathore</h2>
                 <h3>Developer & Cybersecurity Enthusiast</h3>
                 <div class="developer-bio">
-                    <p>Hi there! I'm Vaibhav Sharma, a passionate developer with expertise in cryptography, web development, and information security. I created this steganography application to demonstrate how data can be securely hidden within digital images.</p>
+                    <p>Hi there! I'm Akshara Rathore, a passionate developer with expertise in cryptography, web development, and information security. I created this steganography application to demonstrate how data can be securely hidden within digital images.</p>
                     <p>My work focuses on creating innovative solutions that merge security with user-friendly interfaces. I believe that privacy tools should be accessible to everyone, not just security experts.</p>
                 </div>
                 <div class="social-links">
-                    <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                    <a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                    <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     <a href="#" title="Email"><i class="fas fa-envelope"></i></a>
                 </div>
             </div>
@@ -2260,11 +2254,10 @@ ABOUT_TEMPLATE = '''
     <footer>
         <p>Secure Image Steganography Application &copy; 2025</p>
         <div class="developer-info">
-            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Vaibhav Sharma</p>
+            <p>Developed with <i class="fas fa-heart" style="color: #e74c3c;"></i> by Akshara Rathore</p>
             <div class="dev-social">
-                <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/ItsAksharaRathore" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/itsakshararathore/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
